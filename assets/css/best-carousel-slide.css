@@ -1,0 +1,127 @@
+div.jumbotron.carousel-hero {
+  color: #fff;
+  text-align: center;
+  background-size: cover;
+  background-position: center;
+  padding-top: 100px;
+  padding-bottom: 100px;
+  margin-bottom: 0;
+}
+
+h1.hero-title, h2.hero-title, h3.hero-title {
+  text-shadow: 0 3px 3px rgba(0,0,0,0.4);
+  color: #ff0000;
+}
+
+p.hero-subtitle {
+  max-width: 600px;
+  margin: 25px auto;
+  padding: 10px 15px;
+  color: #fff;
+}
+
+.plat {
+  border-radius: 0px;
+}
+
+.btn-primary.focus, .btn-primary:focus {
+  box-shadow: 0 0 0 0 #048f83!important;
+}
+
+.btn-primary:hover {
+  color: #fff;
+  background-color: #016090;
+  border-color: #016090;
+}
+
+.btn.btn-primary {
+  background-color: #b9171a!important;
+  border-color: rgba(255,15,0,0)!important;
+}
+
+.btn-primary.focus, .btn-primary:focus {
+  box-shadow: 0 0 0 .2rem rgba(0,123,255,.5);
+}
+
+*:before, *:after {
+  /*box-sizing: inherit;*/
+}
+
+span {
+  font-style: inherit;
+  font-weight: inherit;
+}
+
+.jumbotron hero-nature carousel-hero {
+  content: "";
+  display: block;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: rgba(0,0,0,0.66);
+}
+
+.carousel-item-next, .carousel-item-prev, .carousel-item.active {
+}
+
+.carousel-item {
+  position: relative;
+  display: none;
+  -ms-flex-align: center;
+  align-items: center;
+  width: 100%;
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+  -webkit-perspective: 1000px;
+  perspective: 1000px;
+  width: auto;
+  max-height: 500px;
+}
+
+.form-control.form-control-sm {
+}
+
+.input-group.nav.navbar-nav.navbar-right.container {
+  margin-right: 0px;
+}
+
+.btn.btn-secondary.active {
+}
+
+.btn.btn-secondary {
+  background-color: rgb(186,20,25);
+}
+
+.btn.btn-secondary.active {
+  background-color: rgb(186,20,25);
+}
+
+.navbar-light .navbar-nav .nav-link:focus, .navbar-light .navbar-nav .nav-link {
+  color: white;
+}
+
+.cars-features.card-body.pt-3.border.mt-2 {
+  background-color: rgba(91,78,79,0.19);
+}
+
+#detailsrow {
+  color: rgb(186,20,25);
+}
+
+.swiper-button-next.swiper-button-white {
+  background-color: rgba(186,20,25,0.87);
+}
+
+.swiper-button-prev.swiper-button-white {
+  background-color: rgba(186,20,25,0.87);
+}
+
+.filter {
+}
+
+.btn-group.btn-group-toggle {
+  padding-right: 195px;
+}
+

@@ -36,7 +36,7 @@ p.hero-subtitle {
 }
 
 .btn.btn-primary {
-  background-color: #b9171a!important;
+  background-color: rgb(136,8,7)!important;
   border-color: rgba(255,15,0,0)!important;
 }
 
@@ -124,5 +124,9 @@ span {
 
 .btn-group.btn-group-toggle {
   padding-right: 195px;
+}
+
+.carousel-indicators .active {
+  background-color: #880807;
 }
 

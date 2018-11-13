@@ -5,7 +5,8 @@
   border: none;
   box-shadow: 0 0 2px #aaa;
   margin: 10px;
-  background: rgba(186,20,25,0.25);
+  background: rgb(134,9,8);
+  color: white;
 }
 
 .filter {

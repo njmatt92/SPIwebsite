@@ -92,11 +92,11 @@ span {
 }
 
 .btn.btn-secondary {
-  background-color: rgb(186,20,25);
+  background-color: rgb(134,9,8);
 }
 
 .btn.btn-secondary.active {
-  background-color: rgb(186,20,25);
+  background-color: rgb(134,9,8);
 }
 
 .navbar-light .navbar-nav .nav-link:focus, .navbar-light .navbar-nav .nav-link {
@@ -130,5 +130,9 @@ span {
 
 .carousel-indicators .active {
   background-color: #880807;
+}
+
+.footertext {
+  color: white;
 }
 

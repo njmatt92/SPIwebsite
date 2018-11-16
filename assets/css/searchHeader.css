@@ -1,22 +1,22 @@
 #searchBar {
   width: 60%;
-  height: 32px;
   margin-right: -4px;
-  border-color: rgb(186,20,25);
-  color: rgb(255,0,0);
+  color: rgb(142,33,33);
+  border-color: rgb(255,255,255);
 }
 
 #searchBtn {
-  background-color: #545b62;
-  height: 32px;
+  background-color: #8e2121;
+  border-color: rgb(255,255,255);
 }
 
 #searchBtn:hover {
-  box-shadow: 0 0 0 25px rgba(255,0,0,0.66)  inset;
+  box-shadow: 0 0 0 25px rgb(47,52,55)  inset;
   /*-webkit-transform: scale(1);*/
 }
 
 #searchBar::placeholder {
-  color: rgb(0,0,0);
+  color: rgb(136,7,7);
+  font-size: 13px;
 }
 

@@ -40,3 +40,8 @@ span {
   }
 }
 
+.navbar-light .navbar-toggler {
+  color: #ffffff;
+  border-color: #ffffff;
+}
+
